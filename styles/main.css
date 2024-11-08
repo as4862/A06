@@ -1,10 +1,10 @@
-
+/* the styles for the elements */
 body {
 	font-family: Arial, Helvetica, sans-serif;
     	font-size: 100%;
 	margin-left: 10px;
 }
-
+/* the styles for the header */
 header img {
 	float: left;
 }
@@ -32,7 +32,7 @@ footer p {
 	text-align: center;
 }
 
-
+/* the styles for the main content */
 main {
 	clear: left;
 }
@@ -50,7 +50,7 @@ main h3 {
 	padding-bottom: .25em;
 }
 
-
+/* the styles for the footer */
 :root {
     --global-color-1: #800000;
 }
